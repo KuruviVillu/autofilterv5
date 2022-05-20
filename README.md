@@ -1,6 +1,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=autofilterv5&theme=tokyonight)](https://github.com/selfie-bd/autofilterv5&bg_color=#24292F) 
 
-## Try This [GitHub.com/selfie-bd/Evamaria](GitHub.com/selfie-bd/Evamaria)
+## Try This [GitHub.com/selfie-bd/Evamaria](https://github.com/KuruviVillu/autofilterv5)
 
  ## <b>Autofilterv5</b>
 </h1>
@@ -60,8 +60,8 @@ python3 bot.py
 </pre>
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdc)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/EMPIRE_SOURCE_CODE)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/EMPIRE_BOTS)
 
 ## Credits 
 * [![autofilterv5-Devs](https://img.shields.io/static/v1?label=autofilterv5&message=devs&color=critical)](https://telegram.dog/Selfiebd)
